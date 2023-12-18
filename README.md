@@ -1,4 +1,4 @@
-# Todo 
+# EXPENSE TRACKER 
 
 Демо [Create React App](https://eloquent-marzipan-060b21.netlify.app/).
 
