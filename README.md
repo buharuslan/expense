@@ -1,6 +1,6 @@
 # EXPENSE TRACKER 
 
-Демо [Create React App](https://eloquent-marzipan-060b21.netlify.app/).
+Демо [Ссылка](https://eloquent-marzipan-060b21.netlify.app/).
 
 ## React.js, Material UI
 
